@@ -1,5 +1,9 @@
 # Explanation task Design patterns solution
 
+I used the login page from Sauce Labs. and I created a test case where I could use all the 
+design patterns required in the task
+
+
 Singleton (Class: DriverManager):
 Ensures one WebDriver instance across the framework.
 
